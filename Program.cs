@@ -7,7 +7,7 @@ namespace Nova_pasta
     {
         static void Main(string[] args)
         {
-            Program.km();
+            Program.salario();
 
         }
          static void nome1()
@@ -46,6 +46,14 @@ namespace Nova_pasta
             var perimetro = (2*b) + (2*a);
             var diagonal = Math.Sqrt((Math.Pow(b,2)) + (Math.Pow(a,2)));
             Console.WriteLine($"Area= {area}   Perimetro= {perimetro}   Diagonal={diagonal}");
+        }
+
+        static void salario(){
+            var nome = Console.ReadLine();
+            double salario = double.Parse(Console.ReadLine());
+            double vendas = double.Parse(Console.ReadLine());
+            double total = salario + (vendas*0.15);   
+            Console.WriteLine($"TOTAL = R$ {total:0.00}");     
         }
     }
 }
