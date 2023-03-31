@@ -7,7 +7,7 @@ namespace Nova_pasta
     {
         static void Main(string[] args)
         {
-            Program.salario();
+            Program.distancia();
 
         }
          static void nome1()
@@ -55,6 +55,39 @@ namespace Nova_pasta
             double total = salario + (vendas*0.15);   
             Console.WriteLine($"TOTAL = R$ {total:0.00}");     
         }
+
+        static void maior(){
+            string[] d = Console.ReadLine().Split(' ');
+            var a  = long.Parse(d[0]);
+            var b = long.Parse(d[1]);
+            var c = long.Parse(d[2]);
+            long maiorAB = (a+b+Math.Abs(a-b))/2;
+
+            if (maiorAB<c){
+                Console.WriteLine($"{c} eh o maior");
+            }
+            else if (maiorAB==a){
+                Console.WriteLine($"{a} eh o maior");
+            }
+            else if(maiorAB==b){
+                Console.WriteLine($"{b} eh o maior");
+            }
+        }
+        static void consumo(){
+            var distancia = float.Parse(Console.ReadLine());
+            var consumo = float.Parse(Console.ReadLine());
+            var gasto = distancia/consumo;
+            Console.WriteLine($"{gasto:0.000} km/l");
+        }
+        static void distancia(){
+            string[] entrada = Console.ReadLine().Split(' ');
+            double x1 = double.Parse(entrada[0]); double y1 = double.Parse(entrada[1]);
+            string[] entrada2 = Console.ReadLine().Split(' ');
+            double x2 = double.Parse(entrada2[0]); double y2 = double.Parse(entrada2[1]);
+            double distancia = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+            Console.WriteLine($"{distancia:0.0000}");
+        }
+
     }
 }
 
