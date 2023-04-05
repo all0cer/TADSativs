@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20222014040016\\Desktop\\Nova pasta\\TADSativs\\Nova pasta.csproj",
-      "projectName": "Nova pasta",
-      "projectPath": "C:\\Users\\20222014040016\\Desktop\\Nova pasta\\TADSativs\\Nova pasta.csproj",
+      "projectUniqueName": "C:\\Users\\20222014040016\\Nova pasta\\TADSativs\\learnc#\\learnc#.csproj",
+      "projectName": "learnc#",
+      "projectPath": "C:\\Users\\20222014040016\\Nova pasta\\TADSativs\\learnc#\\learnc#.csproj",
       "packagesPath": "C:\\Users\\20222014040016\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20222014040016\\Desktop\\Nova pasta\\TADSativs\\obj\\",
+      "outputPath": "C:\\Users\\20222014040016\\Nova pasta\\TADSativs\\learnc#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\20222014040016\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

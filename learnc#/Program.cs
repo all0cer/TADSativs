@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 
 namespace Nova_pasta
 {
@@ -7,7 +6,7 @@ namespace Nova_pasta
     {
         static void Main(string[] args)
         {
-            Program.distancia();
+            Program.cedulas();
 
         }
          static void nome1()
@@ -87,8 +86,17 @@ namespace Nova_pasta
             double distancia = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
             Console.WriteLine($"{distancia:0.0000}");
         }
-
+        static void cedulas(){
+            long valor = long.Parse(Console.ReadLine());
+            long cont = 0;
+            cont = valor/100
+            Console.WriteLine($"{cont} nota(s) de R$ 100,00");
+            Console.WriteLine($"{valor} nota(s) de R$ 50,00");
+            Console.WriteLine($"{valor} nota(s) de R$ 20,00");
+            Console.WriteLine($"{valor} nota(s) de R$ 10,00");
+            Console.WriteLine($"{valor} nota(s) de R$ 5,00");
+            Console.WriteLine($"{valor} nota(s) de R$ 2,00");
+            Console.WriteLine($"{valor} nota(s) de R$ 1,00");
+        }
     }
 }
-
-       
