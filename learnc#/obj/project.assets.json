@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\20222014040016\\Nova pasta\\TADSativs\\learnc#\\learnc#.csproj",
+      "projectUniqueName": "C:\\Users\\20222014040016\\Desktop\\Nova pasta\\TADSativs\\learnc#\\learnc#.csproj",
       "projectName": "learnc#",
-      "projectPath": "C:\\Users\\20222014040016\\Nova pasta\\TADSativs\\learnc#\\learnc#.csproj",
+      "projectPath": "C:\\Users\\20222014040016\\Desktop\\Nova pasta\\TADSativs\\learnc#\\learnc#.csproj",
       "packagesPath": "C:\\Users\\20222014040016\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\20222014040016\\Nova pasta\\TADSativs\\learnc#\\obj\\",
+      "outputPath": "C:\\Users\\20222014040016\\Desktop\\Nova pasta\\TADSativs\\learnc#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\20222014040016\\AppData\\Roaming\\NuGet\\NuGet.Config",
