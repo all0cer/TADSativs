@@ -6,7 +6,7 @@ namespace Nova_pasta
     {
         static void Main(string[] args)
         {
-            Program.cedulas();
+            Program.gastogasolinha();
 
         }
          static void nome1()
@@ -99,10 +99,41 @@ namespace Nova_pasta
             Console.WriteLine($"{nota100} nota(s) de R$ 100,00");
             Console.WriteLine($"{nota50} nota(s) de R$ 50,00");
             Console.WriteLine($"{nota20} nota(s) de R$ 20,00");
-           Console.WriteLine($"{nota10} nota(s) de R$ 10,00");
+            Console.WriteLine($"{nota10} nota(s) de R$ 10,00");
             Console.WriteLine($"{nota5} nota(s) de R$ 5,00");
             Console.WriteLine($"{nota2} nota(s) de R$ 2,00");
             Console.WriteLine($"{nota1} nota(s) de R$ 1,00");
         }
+        static void rodovia(){
+            string[] via = Console.ReadLine().Split(' ');
+            long tamanho = long.Parse(via[0]);
+            long radarkm = long.Parse(via[1]);
+            string[] preco = Console.ReadLine().Split(' ');
+            int gas = int.Parse(preco[0]);
+            int front = int.Parse(preco[1]);
+            long precoporkm = tamanho*gas;
+            long pedagio = (tamanho/radarkm)*front;
+            long valor = precoporkm+pedagio;
+            Console.WriteLine(valor);
+        }
+        static void area(){
+            string[] valores = Console.ReadLine().Split(' ');
+            double a =   double.Parse(valores[0]);
+            double b = double.Parse(valores[1]);
+            double c = double.Parse(valores[2]);
+            double triangulo = (a*c)/2; double circulo = 3.14159*(c*c); double trapezio = ((a+b)*c)/2; double quadrado = b*b; double retangulo = b*a;
+            Console.WriteLine($"TRIANGULO: {triangulo:0.000}");
+            Console.WriteLine($"CIRCULO: {circulo:0.000}");
+            Console.WriteLine($"TRAPEZIO: {trapezio:0.000}");
+            Console.WriteLine($"QUADRADO: {quadrado:0.000}");
+            Console.WriteLine($"RETANGULO: {retangulo:0.000}");
+        }
+        static void gastogasolinha(){
+            float tempo = float.Parse(Console.ReadLine());
+            float velocidade = float.Parse(Console.ReadLine());
+            float gasto = (velocidade*tempo)/12;
+            Console.WriteLine($"{gasto:0.000}");
+        }
+
     }
 }
