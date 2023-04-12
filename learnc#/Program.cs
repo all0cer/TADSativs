@@ -6,7 +6,7 @@ namespace Nova_pasta
     {
         static void Main(string[] args)
         {
-            Program.testeselecao();
+            Program.intervalo();
 
         }
          static void nome1()
@@ -147,6 +147,14 @@ namespace Nova_pasta
             }
             else{Console.WriteLine("Valores nao aceitos");}
 
+        }
+        static void intervalo(){
+            float n = float.Parse(Console.ReadLine());
+            if (n>=0 && n<=25.000000){Console.WriteLine("Intervalor [0,25]");}
+            if (n>=25.000001 && n<=50.0000000){Console.WriteLine("Intervalor [25,50]");}
+            if (n>=50.000001 && n<=75.0000000){Console.WriteLine("Intervalor [50,75]");}
+            if (n>=70.000001 && n<=100.000000){Console.WriteLine("Intervalor [50,100]");}
+            if (n>100.00 || n<0){Console.WriteLine("Fora do intervalo");}
         }
 
 
