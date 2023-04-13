@@ -215,6 +215,6 @@ namespace Nova_pasta
             else{Console.WriteLine("azar");}
         }
         //Lista 06 - Repetição
-        static void fibonacci(){}
+        static void fibonacci(){ }
     }
 }
