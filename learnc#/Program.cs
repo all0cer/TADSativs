@@ -6,7 +6,7 @@ namespace Nova_pasta
     {
         static void Main(string[] args)
         {
-            Program.sortsimples();
+            Program.loteria();
 
         }
          static void nome1()
@@ -185,5 +185,36 @@ namespace Nova_pasta
             Console.WriteLine($"{b}");
             Console.WriteLine($"{c}");
         }
+        static void cartas(){
+           string[] cartas = Console.ReadLine().Split(' ');
+           int a = int.Parse(cartas[0]); int b = int.Parse(cartas[1]); int c = int.Parse(cartas[2]); int d = int.Parse(cartas[3]); int e = int.Parse(cartas[4]); 
+           if (a<b && b<c && c<d && d<e){
+               Console.WriteLine("C");
+           }
+           else if (a>b && b>c && c>d && d>e){
+               Console.WriteLine("D");
+           }
+            else{Console.WriteLine("N");}
+        }
+        static void loteria(){
+            int acertos=0;
+            string[] loteria = Console.ReadLine().Split(' ');
+            int a = int.Parse(loteria[0]); int b = int.Parse(loteria[1]); int c = int.Parse(loteria[2]); int d = int.Parse(loteria[3]); int e = int.Parse(loteria[4]); int f = int.Parse(loteria[5]);
+            string[] jogo = Console.ReadLine().Split(' ');
+            int g = int.Parse(jogo[0]); int h = int.Parse(jogo[1]); int i = int.Parse(jogo[2]); int j = int.Parse(jogo[3]); int k = int.Parse(jogo[4]); int l = int.Parse(jogo[5]);
+            if(g==a || g==b || g==c || g==d || g==e || g==f){acertos++;}
+            if(h==a || h==b || h==c || h==d || h==e || h==f){acertos++;}
+            if(i==a || i==b || i==c || i==d || i==e || i==f){acertos++;}
+            if(j==a || j==b || j==c || j==d || j==e || j==f){acertos++;}
+            if(k==a || k==b || k==c || k==d || k==e || k==f){acertos++;}
+            if(l==a || l==b || l==c || l==d || l==e || l==f){acertos++;}
+            if(acertos==3){Console.WriteLine("terno");}
+            else if(acertos==4){Console.WriteLine("quadra");} 
+            else if(acertos==5){Console.WriteLine("quadra");} 
+            else if(acertos==6){Console.WriteLine("sena");}
+            else{Console.WriteLine("azar");}
+        }
+        //Lista 06 - Repetição
+        static void fibonacci(){}
     }
 }
