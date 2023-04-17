@@ -1,0 +1,16 @@
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\obj\Debug\net5.0\POO.csproj.AssemblyReference.cache
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\obj\Debug\net5.0\POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\obj\Debug\net5.0\POO.AssemblyInfoInputs.cache
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\obj\Debug\net5.0\POO.AssemblyInfo.cs
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\obj\Debug\net5.0\POO.csproj.CoreCompileInputs.cache
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\bin\Debug\net5.0\POO.exe
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\bin\Debug\net5.0\POO.deps.json
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\bin\Debug\net5.0\POO.runtimeconfig.json
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\bin\Debug\net5.0\POO.runtimeconfig.dev.json
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\bin\Debug\net5.0\POO.dll
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\bin\Debug\net5.0\ref\POO.dll
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\bin\Debug\net5.0\POO.pdb
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\obj\Debug\net5.0\POO.dll
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\obj\Debug\net5.0\ref\POO.dll
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\obj\Debug\net5.0\POO.pdb
+C:\Users\20222014040016\Desktop\Nova pasta\TADSativs\learnc#\POO\obj\Debug\net5.0\POO.genruntimeconfig.cache
