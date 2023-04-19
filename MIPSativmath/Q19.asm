@@ -27,6 +27,8 @@ main: addi $2 $0 5
       mflo $8 #8
       
       
+  #multiplicando para base 10
+      
       sll $9 $9 1
       add $9 $9 $7
       sll $10 $10 2
@@ -41,7 +43,7 @@ main: addi $2 $0 5
       add $9 $9 $14
       sll $8 $8 7
       add $9 $9 $8
-      
+     
       
       add $4 $0 $9
       addi $2 $0 1
