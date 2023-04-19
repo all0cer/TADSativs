@@ -35,7 +35,7 @@ imprimirA2:
             addi $4, $0, 'A'
             addi $2, $0, 11
             syscall
-           j impressao2
+           j impressao3
 
 impressaonormal2:
          add $4, $0, $10
