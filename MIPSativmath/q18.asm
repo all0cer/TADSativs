@@ -36,6 +36,9 @@ main:
     mflo $2
 
 mostrarnum:
+       add $4, $0, $19
+       add $2, $0, 1
+       syscall
        add $4, $0, $18
        add $2, $0, 1
        syscall
