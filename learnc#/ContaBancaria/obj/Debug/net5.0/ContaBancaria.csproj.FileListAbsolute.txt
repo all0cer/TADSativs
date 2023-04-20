@@ -1,0 +1,16 @@
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\obj\Debug\net5.0\ContaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfoInputs.cache
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\obj\Debug\net5.0\ContaBancaria.AssemblyInfo.cs
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\obj\Debug\net5.0\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\bin\Debug\net5.0\ContaBancaria.exe
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\bin\Debug\net5.0\ContaBancaria.deps.json
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.json
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\bin\Debug\net5.0\ContaBancaria.runtimeconfig.dev.json
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\bin\Debug\net5.0\ContaBancaria.dll
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\bin\Debug\net5.0\ref\ContaBancaria.dll
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\bin\Debug\net5.0\ContaBancaria.pdb
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\obj\Debug\net5.0\ContaBancaria.dll
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\obj\Debug\net5.0\ref\ContaBancaria.dll
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\obj\Debug\net5.0\ContaBancaria.pdb
+C:\Users\20222014040016\Desktop\ssss\TADSativs\learnc#\ContaBancaria\obj\Debug\net5.0\ContaBancaria.genruntimeconfig.cache
