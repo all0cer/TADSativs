@@ -1,4 +1,4 @@
-struct array_list{
+/*struct array_list{
 int *data;
 unsigned int size;
 unsigned int capacity;
@@ -6,15 +6,21 @@ unsigned int capacity;
 
 void array_list_increase_capacity(struct array_list *list){
     if(list->size == list->capacity){
+        struct array_list new_list;
+        new_list.capacity = (int *)malloc(sizeof((list->capacity+10)));
+
         for(int i=0; i<list->size; i++){
-
-        }  
+            new_list.data[i] = list->data[i];
+        } 
+        free(*list);
+        *list = new_list;
     }
-   fprintf(stderr,"Error on memory allocation.\n");
-   exit(-1);
-}
+}*/
 
+// int main(){
+//     struct array_list teste;
 
+// }
 
 // 4 - D
 
