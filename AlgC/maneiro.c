@@ -8,8 +8,8 @@ unsigned int capacity;
 void array_list_increase_capacity(struct array_list *list){
     if(list->size == list->capacity){
         struct array_list new_list;
-        new_list.capacity = (int *)malloc(sizeof((list->capacity+10)));
-
+        new_list.size = list->size;
+        new_list.capacity = malloc(sizeof((list->capacity*2)));
         for(int i=0; i<list->size; i++){
             new_list.data[i] = list->data[i];
         } 
