@@ -1,0 +1,16 @@
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\obj\Debug\net5.0\RetanguloConstru.csproj.AssemblyReference.cache
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\obj\Debug\net5.0\RetanguloConstru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\obj\Debug\net5.0\RetanguloConstru.AssemblyInfoInputs.cache
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\obj\Debug\net5.0\RetanguloConstru.AssemblyInfo.cs
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\obj\Debug\net5.0\RetanguloConstru.csproj.CoreCompileInputs.cache
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\bin\Debug\net5.0\RetanguloConstru.exe
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\bin\Debug\net5.0\RetanguloConstru.deps.json
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\bin\Debug\net5.0\RetanguloConstru.runtimeconfig.json
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\bin\Debug\net5.0\RetanguloConstru.runtimeconfig.dev.json
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\bin\Debug\net5.0\RetanguloConstru.dll
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\bin\Debug\net5.0\ref\RetanguloConstru.dll
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\bin\Debug\net5.0\RetanguloConstru.pdb
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\obj\Debug\net5.0\RetanguloConstru.dll
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\obj\Debug\net5.0\ref\RetanguloConstru.dll
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\obj\Debug\net5.0\RetanguloConstru.pdb
+C:\Users\20222014040016\Desktop\ssss3\TADSativs\learnc#\RetanguloConstru\obj\Debug\net5.0\RetanguloConstru.genruntimeconfig.cache
