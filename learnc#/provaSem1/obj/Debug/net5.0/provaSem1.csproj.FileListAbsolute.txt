@@ -1,0 +1,5 @@
+C:\Users\20222014040016\Desktop\aaa\TADSativs\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.csproj.AssemblyReference.cache
+C:\Users\20222014040016\Desktop\aaa\TADSativs\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040016\Desktop\aaa\TADSativs\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.AssemblyInfoInputs.cache
+C:\Users\20222014040016\Desktop\aaa\TADSativs\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.AssemblyInfo.cs
+C:\Users\20222014040016\Desktop\aaa\TADSativs\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.csproj.CoreCompileInputs.cache
