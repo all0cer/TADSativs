@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bxbBi14mD81nTSjbW1pkJJucW+Rg/K51lXyC3Xpw4c5V2FPJjzRuwXY1Z5xQcSkpTgzdZzfWR9VeIlOZVU5vpA==",
+  "dgSpecHash": "joLiWwdwWdadCOG7VovGCtPnWnPG3xZWSXEMckPUyeuIC0VLZYTZs03EzS3MYKV84ig3WL6vpKOZ8sQy8dnSBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\20222014040016\\Nova pasta\\TADSativs\\learnc#\\Cinema\\Cinema.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\italo\\OneDrive\\Documentos\\Nova pasta (3)\\learnc#\\Cinema\\Cinema.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\italo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
