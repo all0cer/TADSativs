@@ -7,14 +7,21 @@ namespace provaSem1
         static void Main(string[] args)
         {
             Pais[] paises = new Pais[10];
-            for(int i=0; i<2; i++){
+            for(int i=0; i<5; i++){
                 Console.WriteLine($"Escreva o nome, populacao e área do {i} país:\n");
                 string n = Console.ReadLine();
                 int p = int.Parse(Console.ReadLine());
                 double a = double.Parse(Console.ReadLine());;
                 paises[i] = new Pais(n,p,a);
             }
-            Console.WriteLine(paises[0]);
+            for(int i=0; i<5; i++){
+                double maior = paises[0].Densidade();
+                if (paises[i].Densidade()>maior){ 
+                    Pais maiorpais = paises[i];
+                    maior = paises[i].Densidade();
+                    Console.WriteLine($"{maiorpais}");}
+            }
+  
         }
     }
 
