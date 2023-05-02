@@ -9,18 +9,22 @@ void array_list_increase_capacity(struct array_list *list){
     if(list->size == list->capacity){
         struct array_list *new_list;
         new_list->size = list->size;
-        new_list->data = (struct array_list*)malloc(sizeof((list->capacity*2)));
+        new_list->data = (int*)malloc(sizeof((list->capacity*2)));
         for(int i=0; i<list->size; i++){
             new_list->data[i] = list->data[i];
         } 
-         free(list);
-         *list = *new_list;
+          free(list);
+          list = *new_list;
           list->capacity = list->capacity*2;
-         }
-fprintf(stderr,"Error on memory allocation.\n");
-exit(-1);
+    }
+
 }
 
+void array_list_append(struct array_list *list, int *valor){
+    
+}
+
+}
 
 struct array_list * array_list_create(){
 struct array_list *new_list;

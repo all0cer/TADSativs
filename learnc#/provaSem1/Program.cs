@@ -14,7 +14,7 @@ namespace provaSem1
                 double a = double.Parse(Console.ReadLine());;
                 paises[i] = new Pais(n,p,a);
             }
-            for(int i=0; i<5; i++){
+            for(int i=0; i<5; i++){ // Retorna o objeto do país com maior densidade
                 double maior = paises[0].Densidade();
                 if (paises[i].Densidade()>maior){ 
                     Pais maiorpais = paises[i];
