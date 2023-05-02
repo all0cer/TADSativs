@@ -3,3 +3,19 @@ C:\Users\20222014040016\Desktop\aaa\TADSativs\learnc#\provaSem1\obj\Debug\net5.0
 C:\Users\20222014040016\Desktop\aaa\TADSativs\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.AssemblyInfoInputs.cache
 C:\Users\20222014040016\Desktop\aaa\TADSativs\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.AssemblyInfo.cs
 C:\Users\20222014040016\Desktop\aaa\TADSativs\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.csproj.CoreCompileInputs.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.csproj.AssemblyReference.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.AssemblyInfoInputs.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.AssemblyInfo.cs
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.csproj.CoreCompileInputs.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\bin\Debug\net5.0\provaSem1.exe
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\bin\Debug\net5.0\provaSem1.deps.json
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\bin\Debug\net5.0\provaSem1.runtimeconfig.json
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\bin\Debug\net5.0\provaSem1.runtimeconfig.dev.json
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\bin\Debug\net5.0\provaSem1.dll
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\bin\Debug\net5.0\provaSem1.pdb
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.dll
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\refint\provaSem1.dll
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.pdb
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\provaSem1.genruntimeconfig.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\provaSem1\obj\Debug\net5.0\ref\provaSem1.dll

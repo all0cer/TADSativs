@@ -19,3 +19,19 @@ C:\Users\20222014040016\Nova pasta\TADSativs\learnc#\Cinema\obj\Debug\net5.0\Cin
 C:\Users\20222014040016\Nova pasta\TADSativs\learnc#\Cinema\obj\Debug\net5.0\ref\Cinema.dll
 C:\Users\20222014040016\Nova pasta\TADSativs\learnc#\Cinema\obj\Debug\net5.0\Cinema.pdb
 C:\Users\20222014040016\Nova pasta\TADSativs\learnc#\Cinema\obj\Debug\net5.0\Cinema.genruntimeconfig.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\bin\Debug\net5.0\Cinema.exe
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\bin\Debug\net5.0\Cinema.deps.json
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\bin\Debug\net5.0\Cinema.runtimeconfig.json
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\bin\Debug\net5.0\Cinema.runtimeconfig.dev.json
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\bin\Debug\net5.0\Cinema.dll
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\bin\Debug\net5.0\Cinema.pdb
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\Cinema.csproj.AssemblyReference.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\Cinema.AssemblyInfo.cs
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\Cinema.dll
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\refint\Cinema.dll
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\Cinema.pdb
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\Cinema.genruntimeconfig.cache
+C:\Users\italo\OneDrive\Documentos\Nova pasta (3)\learnc#\Cinema\obj\Debug\net5.0\ref\Cinema.dll

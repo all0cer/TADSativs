@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20222014040016\\Desktop\\aaa\\TADSativs\\learnc#\\provaSem1\\provaSem1.csproj": {}
+    "C:\\Users\\italo\\OneDrive\\Documentos\\Nova pasta (3)\\learnc#\\provaSem1\\provaSem1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20222014040016\\Desktop\\aaa\\TADSativs\\learnc#\\provaSem1\\provaSem1.csproj": {
+    "C:\\Users\\italo\\OneDrive\\Documentos\\Nova pasta (3)\\learnc#\\provaSem1\\provaSem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20222014040016\\Desktop\\aaa\\TADSativs\\learnc#\\provaSem1\\provaSem1.csproj",
+        "projectUniqueName": "C:\\Users\\italo\\OneDrive\\Documentos\\Nova pasta (3)\\learnc#\\provaSem1\\provaSem1.csproj",
         "projectName": "provaSem1",
-        "projectPath": "C:\\Users\\20222014040016\\Desktop\\aaa\\TADSativs\\learnc#\\provaSem1\\provaSem1.csproj",
-        "packagesPath": "C:\\Users\\20222014040016\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20222014040016\\Desktop\\aaa\\TADSativs\\learnc#\\provaSem1\\obj\\",
+        "projectPath": "C:\\Users\\italo\\OneDrive\\Documentos\\Nova pasta (3)\\learnc#\\provaSem1\\provaSem1.csproj",
+        "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\italo\\OneDrive\\Documentos\\Nova pasta (3)\\learnc#\\provaSem1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\20222014040016\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -45,16 +43,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
