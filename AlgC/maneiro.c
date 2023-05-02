@@ -21,7 +21,9 @@ void array_list_increase_capacity(struct array_list *list){
 }
 
 void array_list_append(struct array_list *list, int *valor){
-    
+    if(list->size == list->capacity){ array_list_increase_capacity(list);}
+    list->data[list->size] = valor;
+    list->size++;
 }
 
 }
