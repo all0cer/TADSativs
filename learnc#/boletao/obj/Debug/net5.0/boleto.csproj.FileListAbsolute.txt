@@ -1,0 +1,16 @@
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\obj\Debug\net5.0\boleto.csproj.AssemblyReference.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\obj\Debug\net5.0\boleto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\obj\Debug\net5.0\boleto.AssemblyInfoInputs.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\obj\Debug\net5.0\boleto.AssemblyInfo.cs
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\obj\Debug\net5.0\boleto.csproj.CoreCompileInputs.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\bin\Debug\net5.0\boleto.exe
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\bin\Debug\net5.0\boleto.deps.json
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\bin\Debug\net5.0\boleto.runtimeconfig.json
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\bin\Debug\net5.0\boleto.runtimeconfig.dev.json
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\bin\Debug\net5.0\boleto.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\bin\Debug\net5.0\ref\boleto.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\bin\Debug\net5.0\boleto.pdb
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\obj\Debug\net5.0\boleto.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\obj\Debug\net5.0\ref\boleto.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\obj\Debug\net5.0\boleto.pdb
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\boletao\obj\Debug\net5.0\boleto.genruntimeconfig.cache
