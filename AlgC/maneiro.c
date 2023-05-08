@@ -50,7 +50,7 @@ void array_list_remove(struct array_list *list,int index) {
     for (int i = index ;i<list->size - 1; ++i) { // Ao chegar no indice, será substituido pelo próximo item da lista, que deixará um espaço vazio
         list->data[i] = list->data[i + 1]; //Mover indices para esquerda
     }
-    list->size--;
+    list->size--; //Tira o ultimo indice (que será igual o penultimo)
 }
 void array_list_pop(struct array_list *list)
 {

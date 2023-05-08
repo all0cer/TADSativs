@@ -15,8 +15,8 @@ struct ll_int_no *ll_int_appendi(struct ll_int_no *first, int x){
     return first;
 }
 
-void print_ll(struct ll_int_no *atual){
-    struct ll_int_no *atual=first;
+void print_ll(struct ll_int_no *first){
+    struct ll_int_no *atual= first;
     while(atual != 0){
         printf ("%d -> ", *atual);
         atual = atual->next;
@@ -26,13 +26,12 @@ void print_ll(struct ll_int_no *atual){
 
 int main(){
     struct ll_int_no *first=0;
-    first = ll_int_appendi(first, 5);
-    first = ll_int_appendi(first, 6);
-    first = ll_int_appendi(first, 8);
-    first = ll_int_appendi(first, 10);
-
-    struct ll_int_no *current=first;
-    print_ll(current);
+    int x;
+    for (int i=0; i<10; ++i){
+        scanf("%d", &x);
+        first = ll_int_appendi(first, x);
+    }
+    print_ll(first);
     return 0;
 
 }
