@@ -33,33 +33,22 @@ void array_list_append(struct array_list *list, int valor)
     list->size++;
 }
 
-/*void array_list_insert(struct array_list *list, int valor, int index){
-    if (list->size == list->capacity)
-    {
-        array_list_increase_capacity(list);
-    }
-    list->size++;
-    for(int i=0; i>list->data; --i){
-        list->data[i] = list->data[i-1];
-        list->data[index] = valor;
-    }
 
-}*/
 void array_list_insert(struct array_list *list, int valor, int index) {
     if (list->size >= list->capacity) {
         array_list_increase_capacity(list);
     }
 
     for (int i = list->size - 1; i >= index; --i) {
-        list->data[i + 1] = list->data[i];
+        list->data[i + 1] = list->data[i]; // Mover indices para direita
     }
     list->data[index] = valor;
-    list->size++;
+    list->size++; //Mostrar que um item foi adicionado
 }
 
 void array_list_remove(struct array_list *list,int index) {
-    for (int i = index ;i<list->size - 1; ++i) {
-        list->data[i] = list->data[i + 1];
+    for (int i = index ;i<list->size - 1; ++i) { // Ao chegar no indice, será substituido pelo próximo item da lista, que deixará um espaço vazio
+        list->data[i] = list->data[i + 1]; //Mover indices para esquerda
     }
     list->size--;
 }
