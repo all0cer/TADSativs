@@ -25,7 +25,7 @@ struct array_list array_list_increase_capacity(struct array_list *list)
 
 void array_list_append(struct array_list *list, int valor)
 {
-    if (list->size == list->capacity)
+    if (list->size >= list->capacity)
     {
         array_list_increase_capacity(list);
     }
@@ -33,6 +33,36 @@ void array_list_append(struct array_list *list, int valor)
     list->size++;
 }
 
+/*void array_list_insert(struct array_list *list, int valor, int index){
+    if (list->size == list->capacity)
+    {
+        array_list_increase_capacity(list);
+    }
+    list->size++;
+    for(int i=0; i>list->data; --i){
+        list->data[i] = list->data[i-1];
+        list->data[index] = valor;
+    }
+
+}*/
+void array_list_insert(struct array_list *list, int valor, int index) {
+    if (list->size >= list->capacity) {
+        array_list_increase_capacity(list);
+    }
+
+    for (int i = list->size - 1; i >= index; --i) {
+        list->data[i + 1] = list->data[i];
+    }
+    list->data[index] = valor;
+    list->size++;
+}
+
+void array_list_remove(struct array_list *list,int index) {
+    for (int i = index ;i<list->size - 1; ++i) {
+        list->data[i] = list->data[i + 1];
+    }
+    list->size--;
+}
 void array_list_pop(struct array_list *list)
 {
     list->size--;
@@ -85,11 +115,9 @@ int main()
 {
     struct array_list *list01 = array_list_create();
     array_list_read_until(list01, -1);
-    array_list_print(list01);
-    printf("\n");
     array_list_append(list01, 13);
-    array_list_print(list01);
-    array_list_pop(list01);
+    array_list_insert(list01, 28, 2);
+     array_list_remove(list01, 3);
     array_list_print(list01);
     free(list01->data);
     free(list01);
