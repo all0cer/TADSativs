@@ -1,0 +1,5 @@
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnC#\Agendamento\obj\Debug\net5.0\Loja.csproj.AssemblyReference.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnC#\Agendamento\obj\Debug\net5.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnC#\Agendamento\obj\Debug\net5.0\Loja.AssemblyInfoInputs.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnC#\Agendamento\obj\Debug\net5.0\Loja.AssemblyInfo.cs
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnC#\Agendamento\obj\Debug\net5.0\Loja.csproj.CoreCompileInputs.cache
