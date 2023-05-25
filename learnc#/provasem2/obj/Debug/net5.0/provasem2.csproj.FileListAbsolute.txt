@@ -1,0 +1,16 @@
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\obj\Debug\net5.0\provasem2.csproj.AssemblyReference.cache
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\obj\Debug\net5.0\provasem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\obj\Debug\net5.0\provasem2.AssemblyInfoInputs.cache
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\obj\Debug\net5.0\provasem2.AssemblyInfo.cs
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\obj\Debug\net5.0\provasem2.csproj.CoreCompileInputs.cache
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\bin\Debug\net5.0\provasem2.exe
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\bin\Debug\net5.0\provasem2.deps.json
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\bin\Debug\net5.0\provasem2.runtimeconfig.json
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\bin\Debug\net5.0\provasem2.runtimeconfig.dev.json
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\bin\Debug\net5.0\provasem2.dll
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\bin\Debug\net5.0\ref\provasem2.dll
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\bin\Debug\net5.0\provasem2.pdb
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\obj\Debug\net5.0\provasem2.dll
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\obj\Debug\net5.0\ref\provasem2.dll
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\obj\Debug\net5.0\provasem2.pdb
+C:\Users\20222014040016\Desktop\Nova pasta (2)\TADSativs\learnc#\provasem2\obj\Debug\net5.0\provasem2.genruntimeconfig.cache
