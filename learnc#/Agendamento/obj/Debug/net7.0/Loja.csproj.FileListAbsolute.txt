@@ -1,0 +1,15 @@
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\Loja.csproj.AssemblyReference.cache
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\Loja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\Loja.AssemblyInfoInputs.cache
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\Loja.AssemblyInfo.cs
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\Loja.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\bin\Debug\net7.0\Loja.exe
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\bin\Debug\net7.0\Loja.deps.json
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\bin\Debug\net7.0\Loja.runtimeconfig.json
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\bin\Debug\net7.0\Loja.dll
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\bin\Debug\net7.0\Loja.pdb
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\Loja.dll
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\refint\Loja.dll
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\Loja.pdb
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\Loja.genruntimeconfig.cache
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Agendamento\obj\Debug\net7.0\ref\Loja.dll
