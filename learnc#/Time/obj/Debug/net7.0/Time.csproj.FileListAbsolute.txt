@@ -1,0 +1,15 @@
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\bin\Debug\net7.0\Time.exe
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\bin\Debug\net7.0\Time.deps.json
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\bin\Debug\net7.0\Time.runtimeconfig.json
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\bin\Debug\net7.0\Time.dll
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\bin\Debug\net7.0\Time.pdb
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\Time.csproj.AssemblyReference.cache
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\Time.AssemblyInfoInputs.cache
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\Time.AssemblyInfo.cs
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\Time.dll
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\refint\Time.dll
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\Time.pdb
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\Time.genruntimeconfig.cache
+C:\Users\Eu\Desktop\Nova pasta\TADSativs\learnc#\Time\obj\Debug\net7.0\ref\Time.dll
