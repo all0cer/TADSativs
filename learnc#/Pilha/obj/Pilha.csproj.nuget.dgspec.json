@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20222014040016\\Desktop\\caras\\TADSativs\\learnc#\\Pilha\\Pilha.csproj": {}
+    "C:\\Users\\20222014040016\\Documents\\aula\\TADSativs\\learnc#\\Pilha\\Pilha.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20222014040016\\Desktop\\caras\\TADSativs\\learnc#\\Pilha\\Pilha.csproj": {
+    "C:\\Users\\20222014040016\\Documents\\aula\\TADSativs\\learnc#\\Pilha\\Pilha.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20222014040016\\Desktop\\caras\\TADSativs\\learnc#\\Pilha\\Pilha.csproj",
+        "projectUniqueName": "C:\\Users\\20222014040016\\Documents\\aula\\TADSativs\\learnc#\\Pilha\\Pilha.csproj",
         "projectName": "Pilha",
-        "projectPath": "C:\\Users\\20222014040016\\Desktop\\caras\\TADSativs\\learnc#\\Pilha\\Pilha.csproj",
+        "projectPath": "C:\\Users\\20222014040016\\Documents\\aula\\TADSativs\\learnc#\\Pilha\\Pilha.csproj",
         "packagesPath": "C:\\Users\\20222014040016\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20222014040016\\Desktop\\caras\\TADSativs\\learnc#\\Pilha\\obj\\",
+        "outputPath": "C:\\Users\\20222014040016\\Documents\\aula\\TADSativs\\learnc#\\Pilha\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20222014040016\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
