@@ -1,0 +1,16 @@
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\obj\Debug\net5.0\provar.csproj.AssemblyReference.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\obj\Debug\net5.0\provar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\obj\Debug\net5.0\provar.AssemblyInfoInputs.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\obj\Debug\net5.0\provar.AssemblyInfo.cs
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\obj\Debug\net5.0\provar.csproj.CoreCompileInputs.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\bin\Debug\net5.0\provar.exe
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\bin\Debug\net5.0\provar.deps.json
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\bin\Debug\net5.0\provar.runtimeconfig.json
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\bin\Debug\net5.0\provar.runtimeconfig.dev.json
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\bin\Debug\net5.0\provar.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\bin\Debug\net5.0\ref\provar.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\bin\Debug\net5.0\provar.pdb
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\obj\Debug\net5.0\provar.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\obj\Debug\net5.0\ref\provar.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\obj\Debug\net5.0\provar.pdb
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\provar\obj\Debug\net5.0\provar.genruntimeconfig.cache
