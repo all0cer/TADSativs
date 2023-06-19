@@ -39,7 +39,9 @@ namespace Producao
             Console.WriteLine("Produto Inserido com sucesso!\n");
     }
     public static void Listar(){
-        npproduto.Listar();
+        foreach(Produto p in npproduto.Listar()){
+            Console.WriteLine(p);
+        }
     }
 }
 
