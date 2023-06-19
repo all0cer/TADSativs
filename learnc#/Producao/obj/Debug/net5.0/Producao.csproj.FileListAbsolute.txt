@@ -1,0 +1,16 @@
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\obj\Debug\net5.0\Producao.csproj.AssemblyReference.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\obj\Debug\net5.0\Producao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\obj\Debug\net5.0\Producao.AssemblyInfoInputs.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\obj\Debug\net5.0\Producao.AssemblyInfo.cs
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\obj\Debug\net5.0\Producao.csproj.CoreCompileInputs.cache
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\bin\Debug\net5.0\Producao.exe
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\bin\Debug\net5.0\Producao.deps.json
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\bin\Debug\net5.0\Producao.runtimeconfig.json
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\bin\Debug\net5.0\Producao.runtimeconfig.dev.json
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\bin\Debug\net5.0\Producao.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\bin\Debug\net5.0\ref\Producao.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\bin\Debug\net5.0\Producao.pdb
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\obj\Debug\net5.0\Producao.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\obj\Debug\net5.0\ref\Producao.dll
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\obj\Debug\net5.0\Producao.pdb
+C:\Users\20222014040016\Documents\Nova pasta\TADSativs\learnc#\Producao\obj\Debug\net5.0\Producao.genruntimeconfig.cache
