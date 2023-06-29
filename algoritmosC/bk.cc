@@ -16,11 +16,11 @@ int labirinto_bt(int labirinto[20][20],
 
     labirinto[y][x] = 9; // Marca todas as células que passou com o valor 9
     int ans = 0 ;
-
-    ans = labirinto_bt(labirinto, linha, coluna, x, y+1) ||
-          labirinto_bt(labirinto, linha, coluna, x+1, y) ||
-          labirinto_bt(labirinto, linha, coluna, x-1, y) ||
-          labirinto_bt(labirinto, linha, coluna, x, y-1);
+    //cada função tentará os 4 caminhos na célula
+    ans = labirinto_bt(labirinto, linha, coluna, x, y+1) || //tenta abaixo, caso dê errado, tentará na seguinte
+          labirinto_bt(labirinto, linha, coluna, x+1, y) || //tentará á esquerda até que retorne falso nas 4, então vai para a seguinte
+          labirinto_bt(labirinto, linha, coluna, x-1, y) || // tentará para baixo até que retorne falso nas 4 então vai para a seguinte
+          labirinto_bt(labirinto, linha, coluna, x, y-1); //tentará todas as alternativas, e após isso retornára a célula para 0
 
     labirinto[y][x] = 0;
     return ans;
